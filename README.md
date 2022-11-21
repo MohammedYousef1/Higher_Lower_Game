@@ -1,2 +1,2 @@
 # Higher_Lower_Game
-A simple higher lower game using instagram data.
+A simple higher lower game thats comparing instagram followers.
